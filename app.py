@@ -282,7 +282,7 @@ tbody tr td {
 # =========================================================
 @st.cache_resource
 def load_model():
-    model_path = r"C:\Users\P ADITHYA M NAIK\runs\detect\train-3\weights\best.pt"
+    model_path = r"best.pt"
     return YOLO(model_path)
 
 # =========================================================
