@@ -1,5 +1,5 @@
 # MARINA
-#Maritime Regulatory Inspection and NDT Assessment
+# Maritime Regulatory Inspection and NDT Assessment
 streamlit
 ultralytics
 pillow
